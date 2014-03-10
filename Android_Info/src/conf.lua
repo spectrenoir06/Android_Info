@@ -4,7 +4,7 @@ function love.conf(t)
     t.console = false                  -- Attach a console (boolean, Windows only)
 
     t.window.title = "Flappy bros"        -- The window title (string)
-    t.window.icon = "/texture/icone.png"                -- Filepath to an image to use as the window's icon (string)
+    --t.window.icon = "/texture/icone.png"                -- Filepath to an image to use as the window's icon (string)
     t.window.width = 480                -- The window width (number)
     t.window.height = 800              -- The window height (number)
     t.window.borderless = false        -- Remove all border visuals from the window (boolean)
